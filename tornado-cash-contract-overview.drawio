@@ -1,80 +1,61 @@
-<mxfile host="app.diagrams.net" modified="2021-01-16T14:37:12.316Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Safari/537.36" etag="03l0RJENMRTH34FfNwCT" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-17T09:54:35.849Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Safari/537.36" etag="Td_SsApkPDr9kMO1O9x9" version="14.1.1" type="github">
   <diagram id="FH1iWryAGuNWAByBNUl9" name="Page-1">
-    <mxGraphModel dx="1761" dy="1361" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1761" dy="2461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="BRn1b3QUICaBh6Dq6EM4-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#120101;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BRn1b3QUICaBh6Dq6EM4-2" target="BRn1b3QUICaBh6Dq6EM4-9">
+        <mxCell id="BRn1b3QUICaBh6Dq6EM4-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#120101;" edge="1" parent="1" source="BRn1b3QUICaBh6Dq6EM4-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="279" y="750" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="279" y="650" />
-              <mxPoint x="125" y="650" />
-            </Array>
+            <mxPoint x="279.16666666666674" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BRn1b3QUICaBh6Dq6EM4-11" value="deposit&lt;br&gt;withdrawal" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BRn1b3QUICaBh6Dq6EM4-8">
-          <mxGeometry x="-0.1875" relative="1" as="geometry">
-            <mxPoint y="-110" as="offset" />
+        <mxCell id="BRn1b3QUICaBh6Dq6EM4-36" value="deposit&lt;br&gt;withdraw" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BRn1b3QUICaBh6Dq6EM4-35">
+          <mxGeometry x="-0.4226" y="-2" relative="1" as="geometry">
+            <mxPoint x="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BRn1b3QUICaBh6Dq6EM4-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#120101;" edge="1" parent="1" source="BRn1b3QUICaBh6Dq6EM4-2" target="BRn1b3QUICaBh6Dq6EM4-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BRn1b3QUICaBh6Dq6EM4-41" value="registerDeposit&lt;br&gt;registerWithdrawal" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BRn1b3QUICaBh6Dq6EM4-40">
+          <mxGeometry x="-0.1165" y="3" relative="1" as="geometry">
+            <mxPoint x="15.17" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BRn1b3QUICaBh6Dq6EM4-2" value="&lt;a href=&quot;https://github.com/tornadocash/tornado-anonymity-mining/blob/master/contracts/TornadoProxy.sol&quot;&gt;TornadoProxy&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="214" y="420" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BRn1b3QUICaBh6Dq6EM4-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BRn1b3QUICaBh6Dq6EM4-3" target="BRn1b3QUICaBh6Dq6EM4-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="BRn1b3QUICaBh6Dq6EM4-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BRn1b3QUICaBh6Dq6EM4-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="313.9999999999998" y="420" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="BRn1b3QUICaBh6Dq6EM4-5" value="deposit" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BRn1b3QUICaBh6Dq6EM4-4">
+        <mxCell id="BRn1b3QUICaBh6Dq6EM4-5" value="withdrawal" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BRn1b3QUICaBh6Dq6EM4-4">
           <mxGeometry x="-0.1867" y="-3" relative="1" as="geometry">
             <mxPoint x="3" y="-31" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BRn1b3QUICaBh6Dq6EM4-3" value="V2 User" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="249" y="210" width="60" height="60" as="geometry" />
+        <mxCell id="BRn1b3QUICaBh6Dq6EM4-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#120101;" edge="1" parent="1" source="BRn1b3QUICaBh6Dq6EM4-3" target="BRn1b3QUICaBh6Dq6EM4-52">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BRn1b3QUICaBh6Dq6EM4-6" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF0F0F;rounded=0;" edge="1" parent="1" target="BRn1b3QUICaBh6Dq6EM4-2">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="414" y="370" as="sourcePoint" />
-            <mxPoint x="414" y="440" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="414" y="445" />
-            </Array>
+        <mxCell id="BRn1b3QUICaBh6Dq6EM4-54" value="reward&lt;br&gt;withdraw" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BRn1b3QUICaBh6Dq6EM4-53">
+          <mxGeometry x="-0.2783" y="2" relative="1" as="geometry">
+            <mxPoint x="31.83" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BRn1b3QUICaBh6Dq6EM4-7" value="rescueToken" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BRn1b3QUICaBh6Dq6EM4-6">
-          <mxGeometry x="-0.7379" y="1" relative="1" as="geometry">
-            <mxPoint y="21" as="offset" />
-          </mxGeometry>
+        <mxCell id="BRn1b3QUICaBh6Dq6EM4-3" value="V2 Realyer" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="284" y="210" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BRn1b3QUICaBh6Dq6EM4-9" value="&lt;a href=&quot;https://github.com/tornadocash/tornado-core/blob/master/contracts/ETHTornado.sol&quot;&gt;Tornado&lt;/a&gt; (0.1 ETH Pool)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="711" width="130" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="BRn1b3QUICaBh6Dq6EM4-12" value="&lt;a href=&quot;https://github.com/tornadocash/tornado-core/blob/master/contracts/ETHTornado.sol&quot;&gt;Tornado&lt;/a&gt; (1 ETH Pool)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BRn1b3QUICaBh6Dq6EM4-12" value="&lt;a href=&quot;https://github.com/tornadocash/tornado-core/blob/master/contracts/ETHTornado.sol&quot;&gt;Tornado&lt;/a&gt; (ETH Pool)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="214" y="711" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BRn1b3QUICaBh6Dq6EM4-14" value="" style="endArrow=classic;html=1;strokeColor=#120101;" edge="1" parent="1" target="BRn1b3QUICaBh6Dq6EM4-12">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="279" y="651" as="sourcePoint" />
-            <mxPoint x="420" y="561" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BRn1b3QUICaBh6Dq6EM4-15" value="" style="endArrow=classic;html=1;strokeColor=#120101;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280" y="651" as="sourcePoint" />
-            <mxPoint x="419" y="711" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="419" y="651" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BRn1b3QUICaBh6Dq6EM4-17" value="Other ETH pools" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="393" y="726" width="65" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="BRn1b3QUICaBh6Dq6EM4-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#120101;" edge="1" parent="1" source="BRn1b3QUICaBh6Dq6EM4-18" target="BRn1b3QUICaBh6Dq6EM4-9">
+        <mxCell id="BRn1b3QUICaBh6Dq6EM4-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#120101;" edge="1" parent="1" source="BRn1b3QUICaBh6Dq6EM4-18">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="711" as="targetPoint" />
             <Array as="points">
               <mxPoint y="681" />
-              <mxPoint x="90" y="681" />
+              <mxPoint x="240" y="681" />
+              <mxPoint x="240" y="711" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -86,61 +67,126 @@
         <mxCell id="BRn1b3QUICaBh6Dq6EM4-18" value="V1 User" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-50" y="661" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BRn1b3QUICaBh6Dq6EM4-22" value="" style="endArrow=classic;html=1;strokeColor=#120101;entryX=0.277;entryY=-0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="BRn1b3QUICaBh6Dq6EM4-12">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="250" y="681" as="sourcePoint" />
-            <mxPoint x="230" y="601" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BRn1b3QUICaBh6Dq6EM4-23" value="" style="endArrow=none;html=1;strokeColor=#120101;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="90" y="681" as="sourcePoint" />
-            <mxPoint x="400.4651162790698" y="681" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BRn1b3QUICaBh6Dq6EM4-24" value="" style="endArrow=classic;html=1;strokeColor=#120101;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="681" as="sourcePoint" />
-            <mxPoint x="400" y="711" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BRn1b3QUICaBh6Dq6EM4-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeColor=#120101;" edge="1" parent="1" source="BRn1b3QUICaBh6Dq6EM4-27" target="BRn1b3QUICaBh6Dq6EM4-2">
+        <mxCell id="BRn1b3QUICaBh6Dq6EM4-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeColor=#120101;" edge="1" parent="1" source="BRn1b3QUICaBh6Dq6EM4-27">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="242.49999999999977" y="420" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="150" y="350" />
-              <mxPoint x="247" y="350" />
+              <mxPoint x="242" y="270" />
+              <mxPoint x="242" y="350" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BRn1b3QUICaBh6Dq6EM4-30" value="withdrawal" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BRn1b3QUICaBh6Dq6EM4-29">
+        <mxCell id="BRn1b3QUICaBh6Dq6EM4-30" value="deposit" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BRn1b3QUICaBh6Dq6EM4-29">
           <mxGeometry x="-0.7809" y="-2" relative="1" as="geometry">
-            <mxPoint x="2" y="3" as="offset" />
+            <mxPoint y="15.33" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BRn1b3QUICaBh6Dq6EM4-27" value="V2 Relayer" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="120" y="220" width="60" height="60" as="geometry" />
+        <mxCell id="BRn1b3QUICaBh6Dq6EM4-27" value="V2 User" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="210" y="210" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BRn1b3QUICaBh6Dq6EM4-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#120101;" edge="1" parent="1" source="BRn1b3QUICaBh6Dq6EM4-31">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="440" y="710" as="targetPoint" />
+            <mxPoint x="260" y="710" as="targetPoint" />
             <Array as="points">
-              <mxPoint y="600" />
-              <mxPoint x="440" y="600" />
+              <mxPoint x="260" y="615" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="BRn1b3QUICaBh6Dq6EM4-34" value="withdrawal" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BRn1b3QUICaBh6Dq6EM4-32">
           <mxGeometry x="-0.8224" y="2" relative="1" as="geometry">
-            <mxPoint x="6.030000000000001" y="2" as="offset" />
+            <mxPoint x="48.33" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BRn1b3QUICaBh6Dq6EM4-31" value="V1 Relayer" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="570" width="50" height="50" as="geometry" />
+          <mxGeometry x="-50" y="590" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BRn1b3QUICaBh6Dq6EM4-33" value="" style="endArrow=classic;html=1;strokeColor=#120101;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="BRn1b3QUICaBh6Dq6EM4-12">
+        <mxCell id="BRn1b3QUICaBh6Dq6EM4-37" value="&lt;a href=&quot;https://github.com/tornadocash/tornado-anonymity-mining/blob/master/contracts/TornadoTrees.sol&quot;&gt;TornadoTrees&lt;/a&gt;&lt;br&gt;(Mining Tree)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="420" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BRn1b3QUICaBh6Dq6EM4-38" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF0F0F;rounded=0;" edge="1" parent="1" target="BRn1b3QUICaBh6Dq6EM4-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="312" y="600" as="sourcePoint" />
-            <mxPoint x="330" y="610" as="targetPoint" />
+            <mxPoint x="90" y="360" as="sourcePoint" />
+            <mxPoint x="343.9999999999998" y="445" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="90" y="445" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BRn1b3QUICaBh6Dq6EM4-39" value="rescueToken&lt;br&gt;updateInstance" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BRn1b3QUICaBh6Dq6EM4-38">
+          <mxGeometry x="-0.7379" y="1" relative="1" as="geometry">
+            <mxPoint y="21" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BRn1b3QUICaBh6Dq6EM4-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#120101;" edge="1" parent="1" source="BRn1b3QUICaBh6Dq6EM4-42" target="BRn1b3QUICaBh6Dq6EM4-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BRn1b3QUICaBh6Dq6EM4-50" value="updateRoots" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BRn1b3QUICaBh6Dq6EM4-48">
+          <mxGeometry x="-0.28" y="2" relative="1" as="geometry">
+            <mxPoint x="-10.4" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BRn1b3QUICaBh6Dq6EM4-42" value="Root&lt;br&gt;Updater" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="800" y="415" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BRn1b3QUICaBh6Dq6EM4-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#050000;" edge="1" parent="1" source="BRn1b3QUICaBh6Dq6EM4-51" target="BRn1b3QUICaBh6Dq6EM4-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BRn1b3QUICaBh6Dq6EM4-65" value="transfer" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BRn1b3QUICaBh6Dq6EM4-64">
+          <mxGeometry x="0.3333" y="1" relative="1" as="geometry">
+            <mxPoint x="23.33" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BRn1b3QUICaBh6Dq6EM4-51" value="&lt;a href=&quot;https://github.com/tornadocash/tornado-anonymity-mining/blob/master/contracts/RewardSwap.sol&quot;&gt;RewardSwap&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="60" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BRn1b3QUICaBh6Dq6EM4-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#120101;" edge="1" parent="1" source="BRn1b3QUICaBh6Dq6EM4-52" target="BRn1b3QUICaBh6Dq6EM4-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BRn1b3QUICaBh6Dq6EM4-56" value="validateRoots" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BRn1b3QUICaBh6Dq6EM4-55">
+          <mxGeometry x="-0.2022" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BRn1b3QUICaBh6Dq6EM4-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#050000;" edge="1" parent="1" source="BRn1b3QUICaBh6Dq6EM4-52" target="BRn1b3QUICaBh6Dq6EM4-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BRn1b3QUICaBh6Dq6EM4-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#050000;" edge="1" parent="1" source="BRn1b3QUICaBh6Dq6EM4-52" target="BRn1b3QUICaBh6Dq6EM4-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BRn1b3QUICaBh6Dq6EM4-62" value="swap&lt;br&gt;setPoolWeight" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BRn1b3QUICaBh6Dq6EM4-61">
+          <mxGeometry x="-0.1804" y="-3" relative="1" as="geometry">
+            <mxPoint x="-3" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BRn1b3QUICaBh6Dq6EM4-52" value="&lt;a href=&quot;https://github.com/tornadocash/tornado-anonymity-mining/blob/master/contracts/Miner.sol&quot;&gt;Miner&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="215" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BRn1b3QUICaBh6Dq6EM4-57" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#F70E0E;rounded=0;" edge="1" parent="1" target="BRn1b3QUICaBh6Dq6EM4-52">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="790" y="110" as="sourcePoint" />
+            <mxPoint x="730" y="150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="790" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BRn1b3QUICaBh6Dq6EM4-58" value="setRates&lt;br&gt;setVerifiers&lt;br&gt;setTornadoTreesContract&lt;br&gt;setPoolWeight" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BRn1b3QUICaBh6Dq6EM4-57">
+          <mxGeometry x="0.3542" relative="1" as="geometry">
+            <mxPoint x="32.5" y="-70" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BRn1b3QUICaBh6Dq6EM4-63" value="&lt;a href=&quot;https://github.com/tornadocash/torn-token/blob/master/contracts/TORN.sol&quot;&gt;Torn&lt;/a&gt;&amp;nbsp;(ERC20)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="60" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BRn1b3QUICaBh6Dq6EM4-66" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#F50000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="314.58" y="-60" as="sourcePoint" />
+            <mxPoint x="314.58" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BRn1b3QUICaBh6Dq6EM4-67" value="changeTransferability&lt;br&gt;addToAllowedList&lt;br&gt;removeFromAllowedList" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BRn1b3QUICaBh6Dq6EM4-66">
+          <mxGeometry x="-0.53" relative="1" as="geometry">
+            <mxPoint x="0.41999999999999993" y="16.67" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
