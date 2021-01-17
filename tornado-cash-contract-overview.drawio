@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-17T10:04:47.320Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Safari/537.36" etag="CeLkXtj3G6dVI0GvH_Hl" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-17T10:33:08.666Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Safari/537.36" etag="lxZPNfWciO-5r_3JFrGO" version="14.1.1" type="github">
   <diagram id="FH1iWryAGuNWAByBNUl9" name="Page-1">
-    <mxGraphModel dx="911" dy="2461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="314" dy="1593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,7 +43,7 @@
             <mxPoint x="31.83" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BRn1b3QUICaBh6Dq6EM4-3" value="V2 Realyer" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="BRn1b3QUICaBh6Dq6EM4-3" value="V2 Relayer" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="284" y="210" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BRn1b3QUICaBh6Dq6EM4-12" value="&lt;a href=&quot;https://github.com/tornadocash/tornado-core/blob/master/contracts/ETHTornado.sol&quot;&gt;Tornado&lt;/a&gt; (ETH Pool)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
